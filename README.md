@@ -1,3 +1,4 @@
 Interface gráfica simulador DMRNAC
 
-![Simulador_DMRNAC](https://github.com/user-attachments/assets/d292a327-90da-4756-bbea-a0d9cd4ba864)
+![Captura de tela 2024-12-11 102023](https://github.com/user-attachments/assets/98cbc7c2-4dca-4d15-aab4-f779483c490d)
+
